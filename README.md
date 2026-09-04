@@ -21,6 +21,10 @@ B4A source from Dave Robinson's Historical Dev archive. Inspect the projects bel
 
 See the files listed above.
 
+## Requirements
+
+- B4A (Basic4Android)
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
