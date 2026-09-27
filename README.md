@@ -1,6 +1,6 @@
 # B4A
 
-B4A source from Dave Robinson's Historical Dev archive. Inspect the projects below for behaviour. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+B4A source from my Historical Dev folder. Inspect the projects below for behaviour. Working copy from my Historical Dev folder.
 
 **Source last updated:** 2015-06-20  
 **Language:** see projects  
@@ -9,7 +9,7 @@ B4A source from Dave Robinson's Historical Dev archive. Inspect the projects bel
 
 ## What it is
 
-B4A source from Dave Robinson's Historical Dev archive. Inspect the projects below for behaviour. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+B4A source from my Historical Dev folder. Inspect the projects below for behaviour. Working copy from my Historical Dev folder.
 
 ## Solution structure
 
@@ -27,6 +27,7 @@ See the files listed above.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `B4A`.
 - No third-party source-code attribution markers were identified in assembly/package metadata.
 
 ## License
